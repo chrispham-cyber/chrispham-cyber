@@ -1,5 +1,3 @@
-![](https://github.com/chrispham-cyber/chrispham-cyber.github.io/blob/master/assets/img/hacker-banner.jpg)
-
 <!--
 **chrispham-cyber/chrispham-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
