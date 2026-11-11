@@ -2,7 +2,7 @@
 
 Security researcher focused on AI/ML tools and MCP servers. I look for sandbox escapes, injection bugs, and broken access controls in projects that ship agent frameworks to production.
 
-5 accepted GitHub Security Advisories. ~15 vulnerability reports filed. Working toward first CVE.
+5 accepted GitHub Security Advisories. 15 vulnerability reports filed. Working toward first CVE.
 
 ## tools
 
